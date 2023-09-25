@@ -3,11 +3,13 @@
 Front-End Developer
 ==============================
 
-Portfolio - [Portfolio](http://codesmdr.github.io)
+Portfolio - [Here](http://codesmdr.github.io)
 
 <p align="center">
  
 </p>
+
+<img src="https://media0.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e470hw5unh57ih1c4sej0ep2ic6qwdheo11xs45727v&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
 ### Skills
 
@@ -19,8 +21,8 @@ Portfolio - [Portfolio](http://codesmdr.github.io)
 
 ### Socials
 
-<p align="left"> <a href="https://www.x.com/codesmdr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-</picture> </a> <a href="https://www.youtube.com/@codesmdr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> 
+<a href="https://www.x.com/codesmdr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@codesmdr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
                   
 
 
