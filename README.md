@@ -3,8 +3,6 @@
 Full-stack Developer
 ==============================
 
-Portfolio - [Here](http://codesmdr.github.io)
-
 <p align="center">
  
 </p>
