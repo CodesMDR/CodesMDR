@@ -1,6 +1,6 @@
 <b>Maurice Roach</b>
 ==============================
-Front-End Developer
+Full-stack Developer
 ==============================
 
 Portfolio - [Here](http://codesmdr.github.io)
